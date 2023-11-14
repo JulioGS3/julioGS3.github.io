@@ -5,6 +5,6 @@ página hecha en markdown
 
 ``java
 public void main(){
-    system.out.printñn("")
+    system.out.println("")
 }
 ```
